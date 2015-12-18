@@ -14,6 +14,32 @@ code {
   border: 1px solid #999;
 }
 
+h3 {
+  font-style: italic;
+}
+
+li p a {
+  color: green;
+}
+
+li > a {
+  color: red;
+}
+
+ul li p {
+  color: orange;
+}
+
+#yell {
+  color: yellow;
+}
+
+/* h3 + p {
+  color: yellow;
+
+}
+
+/*
 /* 1. Make all of the h3s italic.*/
 
 
